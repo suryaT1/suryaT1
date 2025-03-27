@@ -1,6 +1,6 @@
 <!-- Header with animation -->
 <h1 align="center">
-  Hi there, I'm <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">Surya Tatikayala</a> 👋
+  Hi there, I'm <a href="https://www.linkedin.com/in/surya-tatikayala1" target="_blank">Surya Tatikayala</a> 👋
 </h1>
 
 <p align="center">
@@ -51,7 +51,7 @@
 
 ## 🔗 **Connect with me**
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/surya-tatikayala1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
