@@ -43,8 +43,8 @@
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=suryaT1&show_icons=true&theme=dark" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryaT1&theme=dark" width="48%">
 </p>
 
 ---
@@ -60,5 +60,5 @@
 
 ## 👀 **Profile Views**
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=suryaT1&label=Profile%20Views&color=blue&style=flat" />
 </p>
